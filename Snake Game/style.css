@@ -1,0 +1,31 @@
+* {
+    background-color: green;
+    background-image: url('images/background.jpg');
+    background-size: 100% 150%;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    margin: auto;
+    width: 40%;
+    padding: 30px;
+    background: none;
+}
+
+.pontuacao {
+    background: none;
+}
+
+#pont {
+    background: none;
+}
+
+h1,
+h2 {
+    text-align: center;
+    background: none;
+    color: red;
+}
